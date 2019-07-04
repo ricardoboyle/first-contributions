@@ -7298,6 +7298,7 @@ Bailey Wong
 - [cacaorick](https://github.com/cacaorick)
 - [derekc2205](https://github.com/derekc2205)
 - [namanpreetsingh](https://github.com/namanpreetsingh)
+- [Richard Boyle](https://github.com/ricardoboyle)
 - [Aditya Nugraha](https://github.com/aanugraha)
 - [ekas](https://github.com/ekas)
 - [Ahmad Javed](https://github.com/ahmadjaved97)
